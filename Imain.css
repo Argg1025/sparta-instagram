@@ -129,6 +129,7 @@ footer{
     flex-direction: row;
     justify-content: center;
     padding:65px;
+    flex-grow: 12;
 }
 h2{
     
@@ -141,5 +142,5 @@ h2{
     color:#999;
 }
 .white{
-    color:white;
+    flex-basis:10%;
 }
